@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: #0078d4;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 4px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+}
+
+p, h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ap-header-block {
+    width: 100%;
+    text-align: center;
+}
+
+.label {
+    text-align: center;
+}

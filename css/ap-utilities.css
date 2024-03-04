@@ -1,0 +1,12 @@
+.center-text {
+    text-align: center;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.flex-end {
+    display: flex;
+    align-items: flex-end;
+}

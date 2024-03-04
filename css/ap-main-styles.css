@@ -1,0 +1,11 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ap-main-container {
+    width: 100%;
+    max-width: 1254px;
+    margin: auto;
+    padding: 24px;
+    box-sizing: border-box;
+}
