@@ -1950,7 +1950,7 @@ textarea.w-select {
 
 .w-nav {
   z-index: 1000;
-  background: #ddd;
+  background: #F2A2E8;
   position: relative
 }
 
@@ -3506,7 +3506,7 @@ a {
 }
 
 .navbar {
-  background-color: transparent;
+  background-color: #F2A2E8;
   margin-bottom: 85px;
   position: fixed;
   top: 0%;
@@ -5619,7 +5619,9 @@ a {
 }
 
 .contenedor-navbar-100 {
-  background-color: transparent;
+  background-color: #F2A2E8;
+  outline-color: #B272A8;
+  outline-style: solid;
   width: 100%;
   position: relative
 }
